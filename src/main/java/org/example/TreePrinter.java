@@ -1,4 +1,4 @@
-package org.example.hm7.webinar;
+package org.example;
 
 import java.io.PrintStream;
 import java.util.ArrayList;

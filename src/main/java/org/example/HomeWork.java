@@ -1,7 +1,5 @@
-package org.example.hm7;
+package org.example;
 
-
-import org.example.hm7.webinar.Treap;
 
 import java.util.ArrayList;
 import java.util.List;

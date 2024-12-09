@@ -1,7 +1,6 @@
-package org.example.hm7;
+package org.example;
 
 import lombok.RequiredArgsConstructor;
-import org.example.hm7.webinar.Treap;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
@@ -12,7 +11,7 @@ import java.util.stream.Collectors;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
-class HomeWork7Test {
+class HomeWorkTest {
     HomeWork homeWork = new HomeWork();
 
     // Тесты декартова дерева
